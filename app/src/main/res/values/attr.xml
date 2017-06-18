@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="YuanZhu">
+        <attr name="ColorShouSuo" format="color"/>
+        <attr name="ColorShuZhang" format="color"/>
+        <attr name="TextShouSuo" format="string"/>
+        <attr name="TextShuZhang" format="string"/>
+        <attr name="TextSizeshuzhang" format="integer"/>
+    </declare-styleable>
+
+
+</resources>
